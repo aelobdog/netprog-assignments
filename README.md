@@ -4,15 +4,19 @@ Submitted by [Ashwin Godbole](https://github.com/aelobdog/) and [Samarth Krishna
 
 The repository contains the following:
 - Lab 1
+
   A program to display a file line by line from multiple processes using realtime signals as the method of Inter Process Communication.
 
 - Lab 2
+
   A program to perform Inter Process Communication between processes using pipes and signals.
 
 - Lab 3
+
   A program to perform Inter Process Communication between processes using message queues.
 
 - Assignment One
+
   (To find out more, refer to the pdf in the associated directory)
 
   - P1
